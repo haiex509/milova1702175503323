@@ -1,0 +1,99 @@
+{
+  "id": 9,
+  "user_id": "622ee137-735b-4cee-a942-e3571bfe9cba",
+  "name": "nuevayol1701928680354",
+  "description": "nuevayol description",
+  "display_name": "Nuevayol",
+  "showBanner": false,
+  "header": {
+    "title": "Now it's easier than ever to build products",
+    "subtitle": "Preline is a large open-source project, crafted with Tailwind CSS framework by Hmlstream.",
+    "buttonText": "Explore",
+    "showButton": true
+  },
+  "categories": [
+    "categ1",
+    "categ2",
+    "categ3",
+    "categ4",
+    "categ5",
+    "categ6",
+    "categ7"
+  ],
+  "showSearch": true,
+  "products": [
+    {
+      "id": 30,
+      "slug": "norate-makeup-brush-cleaner-make-up-brush-cleansers-solution-makeup-cleaner-for-makeup-brushes",
+      "item1": "🖌️ Back Suction Cup design: Suction cup has strong absorption which can free your hands and fit perfectly on fingers, easy to hold and work with.",
+      "item2": "🌿 KEEP YOUR BRUSH CLEAN: Fast and effective makeup residues removal, keeping your brushes soft and looking like new.",
+      "item3": "🧼 SUIT FOR ALL BRUSHES: Thoroughly cleans between applications and prolongs the life of your brushes and sponges.",
+      "item4": "🌟 EFFECTIVE & GENTLY FORMULA: Safe and gentle formula suitable for all skin types, including sensitive skin.",
+      "offer": "Free Returns",
+      "title": "Norate Makeup Brush Cleaner",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41aEVxijfNL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51KaoZyGfjL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41n3qmW3 RL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51Uw0zuPGbL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41FJ ZFnW7L.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41nn5Td00jL.jpg"
+      ],
+      "guaranty": "30 Days",
+      "seo_tags": "makeup brush cleaner, brush cleanser, effective formula, cruelty-free, safe ingredients, free shipping, 30-day guarantee",
+      "shipping": "Free shipping",
+      "subtitle": "Effective and Gently Formula for Makeup Brushes",
+      "seo_title": "Norate Makeup Brush Cleaner - Keep Your Brushes Clean and Fresh",
+      "main_image": "https://images-na.ssl-images-amazon.com/images/I/41Eo5ghXH L.jpg",
+      "offer_price": "10.90",
+      "normal_price": "13.90",
+      "number_stars": "4.1",
+      "seo_description": "Thoroughly clean through all bristles and remove impurities. Suitable for all brush fibers. Cruelty-free and safe for all skin types. Free shipping and 30-day guarantee."
+    },
+    {
+      "id": 31,
+      "slug": "centric-brands-inc-frozen-kids-gel-de-bano-para-ninos-jabon-de-bano-refrescante-para-ninos-para-la-ducha-y-el-bano-jabon-y-gel-de-bano-para-ninas-y-ninos-gel-de-bano-con-aroma-a-bayas-esmeriladas-8-onzas-liquidas",
+      "item1": "🛁 Jabón perfumado con aroma a bayas de Frozen para niños",
+      "item2": "👑 Perfecto para los fanáticos de las princesas Disney",
+      "item3": "🌟 Fórmula no tóxica y delicada para la piel de los niños",
+      "item4": "🍇 Aroma fresco y fragante a bayas para una hora del baño emocionante",
+      "offer": "Devoluciones gratuitas",
+      "title": "Gel de baño para niños Frozen",
+      "images": [],
+      "guaranty": "Garantía de 30 días",
+      "seo_tags": "gel de baño, niños, Frozen, Disney, princesas, ana y elsa, fragante, no tóxico, bayas, jabón",
+      "shipping": "Envío gratuito",
+      "subtitle": "Gel de baño para niños Frozen con aroma a bayas",
+      "seo_title": "Gel de baño refrescante para niños Frozen",
+      "main_image": "https://images-na.ssl-images-amazon.com/images/I/415qWqGFTjL.jpg",
+      "offer_price": "300",
+      "normal_price": "350",
+      "number_stars": "4.0",
+      "seo_description": "¡Haz que la hora del baño sea emocionante con el Gel de baño para niños Frozen! Con el aroma fresco de bayas, este jabón perfumado elimina la suciedad suavemente mientras deja la piel con un olor delicioso. Perfecto para los pequeños fanáticos de las princesas Disney, Ana y Elsa."
+    },
+    {
+      "id": 35,
+      "slug": "lacuna-makeup-remover-the-calm-after-the-storm-witch-hazel-coconut-oil",
+      "item1": "💧 Gentle and effective makeup removal",
+      "item2": "🌿 Infused with witch hazel and coconut oil",
+      "item3": "🧖‍♀️ Calms and nourishes the skin",
+      "item4": "🌟 Suitable for all skin types",
+      "offer": "Free Returns",
+      "title": "Lacuna Makeup Remover",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/310RE6fXPjL.jpg"
+      ],
+      "currency": "DOP",
+      "guaranty": "30 Days",
+      "seo_tags": "makeup remover, gentle, witch hazel, coconut oil, soothing, calming, skincare, beauty, clean skin",
+      "shipping": "Free shipping",
+      "subtitle": "The Calm After The Storm Witch Hazel Coconut Oil",
+      "seo_title": "Gentle and Effective Makeup Remover",
+      "main_image": "https://images-na.ssl-images-amazon.com/images/I/31Rw3OA3neL.jpg",
+      "offer_price": "1500",
+      "normal_price": "1680",
+      "number_stars": "4.7",
+      "seo_description": "Experience the soothing and cleansing power of Lacuna Makeup Remover. Formulated with witch hazel and coconut oil, this gentle makeup remover effortlessly removes all traces of makeup while calming the skin. Say goodbye to the storm of the day and hello to clean, nourished skin."
+    }
+  ]
+}
